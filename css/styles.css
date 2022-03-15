@@ -181,7 +181,7 @@ a.logo:active {
 }
 
 .acne-ul {
-  padding: 0;
+  padding: .5rem;
   display: flex;
   flex-direction: column;
 }
